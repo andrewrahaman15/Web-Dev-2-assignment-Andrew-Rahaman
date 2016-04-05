@@ -89,7 +89,9 @@ body,.container{
 	margin-bottom:8px;	
 	vertical-align:top;
 }
-img{	width:90%;
+img{	
+	height:50%;
+	width:90%;
 	margin-left:1px;
 	margin-right:1px;
 	margin-bottom:1px;
